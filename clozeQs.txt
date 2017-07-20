@@ -1,0 +1,1 @@
+[{"text":"(Michael Jackson) won many awards for this 1982 album titled Thriller.","cloze":"Michael Jackson"}]
